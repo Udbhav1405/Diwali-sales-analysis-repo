@@ -37,6 +37,7 @@ Matplotlib
 Seaborn
 
 📊 Visualizations
+<br>
 The notebook includes a wide range of visualizations to represent the data, such as:
 
 Bar plots and histograms for distribution analysis
