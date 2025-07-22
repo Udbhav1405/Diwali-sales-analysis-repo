@@ -1,10 +1,13 @@
 📊 Diwali Sales Data Analysis
+<br>
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset from a Diwali sale event. The goal is to gain insights into customer behavior and sales patterns, helping businesses make data-driven decisions to optimize future campaigns.
 
 📁 Dataset
+<br>
 The dataset used is Diwali Sales Data.csv. It includes customer demographic information, product categories, purchase amounts, and more.
 
 🔍 Objectives
+<br>
 Understand the distribution of customers based on gender, age, occupation, and marital status.
 
 Analyze the purchase behavior and product preferences across different demographics.
@@ -12,6 +15,7 @@ Analyze the purchase behavior and product preferences across different demograph
 Visualize insights using Python libraries like Matplotlib and Seaborn.
 
 📌 Key Insights
+<br>
 Female customers show a higher purchasing power in this dataset.
 
 Certain age groups and occupations spend more during the Diwali sales.
@@ -19,6 +23,7 @@ Certain age groups and occupations spend more during the Diwali sales.
 Top-performing product categories and cities are identified.
 
 🛠️ Technologies Used
+<br>
 Python
 
 Jupyter Notebook
